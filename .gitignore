@@ -1,0 +1,6 @@
+*.dll
+*.pdb
+*.lib
+*.response
+*.exp
+*.obj

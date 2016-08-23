@@ -1,0 +1,9 @@
+{
+	"Changelist" : 0,
+	"BuildId" : "cd201e70-4e98-4ec6-aca6-40aa2e09a55b",
+	"Modules" : 
+	{
+		"UPOLib" : "UE4Editor-UPOLib.dll",
+		"UPOLibEditor" : "UE4Editor-UPOLibEditor.dll"
+	}
+}
